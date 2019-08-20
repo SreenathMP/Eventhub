@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colleges">
+        <item>College of Dairy Science and Technology, Kolahalamedu, Idukki (CDI)</item>
+        <item>College of Dairy Science and Technology, Pookode (CDP) </item>
+        <item>College of Dairy Science and Technology, Thrissur (CDT) </item>
+        <item>College of Dairy Science and Technology, Thiruvananthapuram (CDV) </item>
+        <item>College of Food Technology, Chalakkudy (CFT) </item>
+        <item>Government Engineering College, Idukki (IDK) </item>
+        <item>Kelappaji College of Agricultural Engineering and Technology, Tavanur (KCT) </item>
+        <item>Government Engineering College, Kozhikkode (KKE) </item>
+        <item>Government College of Engineering, Kannur (KNR) </item>
+        <item>Government Rajiv Gandhi Institute of Technology, Kottayam (KTE) </item>
+        <item>Mar Athanasius College of Engineering, Kothamangalam (MAC) </item>
+        <item>N S S College of Engineering, Palakkad (NSS) </item>
+        <item>Government Engineering College, Palakkad (PKD) </item>
+        <item>Government Engineering College, Thrissur (TCR) </item>
+        <item>T K M College of Engineering, Kollam (TKM) </item>
+        <item>Government Engineering College Barton Hill, Thiruvananthapuram (TRV) </item>
+        <item>College of Engineering, Thiruvananthapuram (TVE) </item>
+        <item>Government Engineering College, Wayanad (WYD) </item>
+        <item>College of Engineering, Adoor (ADR) </item>
+        <item>College of Engineering of Aranmula, Pathanamthitta (AEC) </item>
+        <item>College of Engineering, Attingal (CEA) </item>
+        <item>College of Engineering, Cherthala (CEC) </item>
+        <item>College of Engineering,Kottarakkara, Kollam (CEK) </item>
+        <item>College of Engineering Muttathara, Thiruvananthapuram (CEM) </item>
+        <item>College of Engineering,Chengannoor (CHN) </item>
+        <item>College of Engineering Kidangoor, KOTTAYAM (KGR) </item>
+        <item>College of Engineering, Karunagappally, Kollam (KNP) </item>
+        <item>LBS College of Engineering, Kasaragod (KSD) </item>
+        <item>LBS Institute of Technology for Women, Thiruvananthapuram (LBT) </item>
+        <item>Model Engineering College, Ernakulam (MDL) </item>
+        <item>College of Engineering, Munnar (MNR) </item>
+        <item>College of Engineering Pathanapuram, Kollam (PEC) </item>
+        <item>College of Engineering Poonjar, Kottayam (PJR) </item>
+        <item>College of Engineering Perumon, Kollam (PRN) </item>
+        <item>College of Engineering and Management Punnnapra (PRP) </item>
+        <item>College of Engineering, Kallooppara (PTA) </item>
+        <item>S C T College of Engineering, Thiruvananthapuram (SCT) </item>
+        <item>College of Engineering, Kasaragod (TKR) </item>
+        <item>College of Engineering,Thalassery, Kannur (TLY) </item>
+        <item>Institute of Engineering and Technology, Malappuram (UCC) </item>
+        <item>University College of Engineering,Thodupuzha (UCE) </item>
+        <item>University College of Engineering, Kariavattom, Thiruvananthapuram (UCK) </item>
+        <item>College of Engineering, Vadakara (VDA) </item>
+        <item>Al-Azhar College of Engineering and Technology, Idukki (AAE) </item>
+        <item>Al-Ameen Engineering College, Palakkad (AAP) </item>
+        <item>Archana College of Engineering, Alappuzha (ACE) </item>
+        <item>Albertian Institute of Science and Technology, Kochi (AIK) </item>
+        <item>Amal Jyothi College of Engineering, Kottayam (AJC) </item>
+        <item>Ammini College of Engineering, Palakkad (AME) </item>
+        <item>Aryanet Institute of Technology, Palakkad (ANE) </item>
+        <item>Adi Shankara Institute of Engineering and Technology, Ernakulam (ASI) </item>
+        <item>Ahalia School of Engineering and Technology, Palakkad (ATP) </item>
+        <item>AWH Engineering College, Kozhikkode (AWH) </item>
+        <item>Axis College of Engineering and Technology, Thrissur (AXE) </item>
+        <item>Bishop Jerome Institute, Kollam (BJK) </item>
+        <item>Baselios Mathews II College of Engineering, Kollam (BMC) </item>
+        <item>Baselios Thomas I Catholicose College of Engineering and Technology, Ernakulam (BTE) </item>
+        <item>Christ College of Engineering, Thrissur (CCE) </item>
+        <item>Cochin College of Engineering and Technology, Malappuram (CCV) </item>
+        <item>College of Engineering and Technology, Payyanur (CEN) </item>
+        <item>Cochin Institute of Science and Technology, Ernakulam (CIM) </item>
+        <item>Christ Knowledge City, Ernakulam (CKC) </item>
+        <item>Carmel College of Engineering and Technology,Alappuzha (CMA) </item>
+        <item>Believers Church Caarmel Engineering College, Pathanamthitta (CML) </item>
+        <item>M. Dasan Institute of Technology, Kozhikode (DMC) </item>
+        <item>Sree Ernakulathappan College of Engineering and Management, Thrissur (ECE) </item>
+        <item>Eranad Knowledge City Technical Campus, Malappuram (EKC) </item>
+        <item>Federal Institute of Science and Technology, Ernakulam (FIT) </item>
+        <item>Focus Institute of Science and Technology,Thrissur (FOP) </item>
+        <item>Gurudeva Institute of Science and Technology, Kottayam (GIT) </item>
+        <item>K R Gouri Amma College of Engineering, Alappuzha (GWE) </item>
+        <item>Heera College of Engineering and Technology, Thiruvananthapuram (HCE) </item>
+        <item>Holy Grace Academy of Engineering, Thrissur (HGW) </item>
+        <item>Holy Kings College of Engineering and Technology,Ernakulam (HKC) </item>
+        <item>Hindustan College of Engineering, Kollam (HKE) </item>
+        <item>Ilahia College of Engineering and Technology, Ernakulam (ICE) </item>
+        <item>Ilahia School of Science and Technology, Muvattupuzha (ICT) </item>
+        <item>I E S College of Engineering, Thrissur (IES) </item>
+        <item>Indira Gandhi Institute of Engineering and Technology for Women, Ernakulam (IGW) </item>
+        <item>I L M College of Engineering and Technology, Perumbavoor (ILE) </item>
+        <item>Jai Bharath College of Management and Engineering Technology, Ernakulam (JBT) </item>
+        <item>Jawaharlal College of Engineering and Technology, Palakkad (JCE) </item>
+        <item>Jyothi Engineering College, Thrissur (JEC) </item>
+        <item>John Cox Memorial C S I Institute of Technology, Thiruvananthapuram (JIT) </item>
+        <item>Kottayam Institute of Technology and Science, Kottayam (KIT)</item>
+        <item>KMCT College of Engineering, Kozhikode (KMC) </item>
+        <item>K M E A Engineering College, Cochin (KME) </item>
+        <item>KMP College of Engineering, Ernakulam (KMP) </item>
+        <item>KMCT College of Engineering for Women, Kozhikode (KMW) </item>
+        <item>KVM College of Engineering and Information Technology, Alappuzha (KVE) </item>
+        <item>Lourdes Matha College of Science and Technology, Thiruvananthapuram (LMC) </item>
+        <item>Mar Baselios Christian College of Engineering and Technology,Idukki (MBC) </item>
+        <item>Mar Baselios Institute of Technology and Science, Ernakulam (MBI) </item>
+        <item>Mar Baselios College of Engineering and Technology, Thiruvananthapuram (MBT) </item>
+        <item>Musaliar College Of Engineering, Thiruvananthapuram (MCC) </item>
+        <item>Marian Engineering College, Thiruvananthapuram (MCE) </item>
+        <item>Musaliar College of Engineering and Technology, Pathanamthitta (MCK) </item>
+        <item>Mohandas College of Engineering and Technology, Thiruvananthapuram (MCT) </item>
+        <item>M E A Engineering College, Vengoor (MEA) </item>
+        <item>Malabar College of Engineering and Technology, Thrissur (MEC) </item>
+        <item>MES College of Engineering and Technology, Ernakulam (MEE) </item>
+        <item>MES Institute of Technology and Management, Kollam (MEK) </item>
+        <item>M E S College of Engineering, Kuttippuram (MES) </item>
+        <item>Mets School of Engineering, Thrissur (MET) </item>
+        <item>M G College of Engineering, Thiruvananthapuram (MGC) </item>
+        <item>Saintgits College of Engineering, Kottayam (MGP) </item>
+        <item>ACE College Of Engineering, Thiruvananthapuram (MHP) </item>
+        <item>Mookambika Technical Campus, Ernakulam (MKE) </item>
+        <item>Mangalam College of Engineering, Kottayam (MLM) </item>
+        <item>Malabar Institute of Technology, Kannur (MLT) </item>
+        <item>Matha College of Technology, Ernakulam (MTA) </item>
+        <item>Muslim Association College of Engineering, Thiruvananthapuram (MUS) </item>
+        <item>Muthoot Institute of Technology and Science,Ernakulam (MUT) </item>
+        <item>Mount Zion College of Engineering, Pathanamthitta (MZC) </item>
+        <item>Mount Zion Institute of Science and Technology, Alappuzha (MZW) </item>
+        <item>Nehru College of Engineering and Research Centre, Thrissur (NCE) </item>
+        <item>Nirmala College of Engineering, Thirissur (NIE) </item>
+        <item>North Malabar Institute of Technology, Kasaragod (NML) </item>
+        <item>P A Aziz College of Engineering and Technology, Thiruvananthapuram (PAA) </item>
+        <item>Prime College of Engineering, Palakkad (PCE) </item>
+        <item>Pankajakasthuri College of Engineering and Technology, Thiruvananthapuram (PKE) </item>
+        <item>Pinnacle School of Engineering and Technology, Kollam (PNC) </item>
+        <item>Providence College of Engineering, Chengannur (PRC) </item>
+        <item>PRS College of Engineering and Technology, Thiruvananthapuram (PRS) </item>
+        <item>Royal College of Engineering and Technology, Thrissur (RCE) </item>
+        <item>Rajagiri School of Engineering and Technology, Ernakulam (RET) </item>
+        <item>Rajadhani Institute of Engineering and Technology, Thiruvananthapuram (RIE) </item>
+        <item>Sree Buddha College of Engineering, Alappuzha (SBC) </item>
+        <item>Sree Buddha College of Engineering, Pathanamthitta (SBW) </item>
+        <item>SCMS School of Engineering and Technology, Ernakulam (SCM) </item>
+        <item>St.Gregorios College of Engineering, Kasargod (SGP) </item>
+        <item>Sadguru Swami Nithyananda Insititute of Technology, Kasaragod (SGT) </item>
+        <item>Shahul Hameed Memorial Engineering College, Kollam (SHM) </item>
+        <item>Sahrdaya College of Engineering and Technology, Thrissur (SHR) </item>
+        <item>Sarabhai Institute of Science and Technology, Thiruvananthapuram (SIT) </item>
+        <item>St Josephs College of Engineering and Technology, Palai (SJC) </item>
+        <item>Sree Narayana Guru College of Engineering and Technology, Kannur (SNC) </item>
+        <item>Sree Narayana Gurukulam College of Engineering, Ernakulam (SNG) </item>
+        <item>SNM Institute of Management and Technology, Ernakulam (SNM) </item>
+        <item>Sree Narayana Institute of Technology, Adoor (SNP) </item>
+        <item>Sree Narayana Guru Institute of Science and Technology, Ernakulam (SNT) </item>
+        <item>Sreepathy Institute of Management and Technology, Palakkad (SPT) </item>
+        <item>St Thomas Colllege of Engineering and Technology, Alappuzha (STC) </item>
+        <item>St. Thomas Institute For Science and Technology, Thiruvananthapuram (STI) </item>
+        <item>St.Thomas College of Engineering and Technology,Kannur (STM) </item>
+        <item>Toms College of Engineering for Startups,Kottayam (TCE) </item>
+        <item>Trinity College of Engineering, Thiruvananthapuram (TCT) </item>
+        <item>Travancore Engineering College, Kollam (TEC) </item>
+        <item>Thejus Engineering College, Thrissur (TJE) </item>
+        <item>T K M Institute of Technology, Kollam (TKI) </item>
+        <item>Toc H Institute of Science and Technology, Ernakulam (TOC) </item>
+        <item>UKF College of Engineering and Technology, Kollam (UKP) </item>
+        <item>Universal Engineering College, Thrissur (UNT) </item>
+        <item>Vidya Academy of Science and Technology, Thiruvananthapuram (VAK) </item>
+        <item>Vidya Academy of Science and Technology, Thrissur (VAS) </item>
+        <item>Vijnan Institute of Science and Technology, Ernakulam (VIT) </item>
+        <item>Viswajyothi College of Engineering and Technology, Ernakulam (VJC) </item>
+        <item>Valia Koonambaikulathamma College of Engineering and Technology, Parippally (VKE) </item>
+        <item>Vimal Jyothi Engineering College, Kannur (VML) </item>
+        <item>Sri Vellappally Natesan College of Engineering, Alappuzha (VPE) </item>
+        <item>Veda Vyasa Institute of Technology, Malappuram. (VVT) </item>
+        <item>Younus College of Engineering and Technology, Kollam (YCE) </item>
+        <item>Younus Institute of Technology, Kannanalloor (YCK) </item>
+        <item>Younus College of Engineering, Kollam (YCW) </item>
+    </string-array>
+
+</resources>
